@@ -5,5 +5,5 @@ class DatasetMetadata:
     name: str
     file_path: str
     file_format: str
-    row_count: int | 
+    row_count: int | None
     column_count: int
